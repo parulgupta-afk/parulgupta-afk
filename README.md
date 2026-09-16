@@ -131,7 +131,7 @@ real-world products.
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/parul-gupta-180250354)  
-[Portfolio](YOUR_PORTFOLIO_URL)
+[Portfolio](https://github.com/parulgupta-afk/Portfolio)
 [Email](parulmahajan863@gmail.com)
 
 ---
